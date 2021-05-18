@@ -26,8 +26,7 @@ namespace DataCodeFirst.Context
             modelBuilder.ApplyConfiguration(new PhieuBaoHagConfig());
             modelBuilder.ApplyConfiguration(new SanPhamConfig());
             modelBuilder.ApplyConfiguration(new ThuongHieuConfig());
-            
-            
+
         }
 
         public DbSet<CuaHang> CuaHangs { get; set; }
