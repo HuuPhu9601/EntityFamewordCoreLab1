@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFamewordCoreLab1", "EntityFamewordCoreLab1\EntityFamewordCoreLab1.csproj", "{CA4447B6-4D9A-45FE-B040-79711FDBF086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCodeFirst", "DataCodeFirst\DataCodeFirst.csproj", "{09C2FC06-DFE1-4D03-9467-594CBE799790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4447B6-4D9A-45FE-B040-79711FDBF086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4447B6-4D9A-45FE-B040-79711FDBF086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4447B6-4D9A-45FE-B040-79711FDBF086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4447B6-4D9A-45FE-B040-79711FDBF086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C2FC06-DFE1-4D03-9467-594CBE799790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C2FC06-DFE1-4D03-9467-594CBE799790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C2FC06-DFE1-4D03-9467-594CBE799790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C2FC06-DFE1-4D03-9467-594CBE799790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1272D79A-4C0A-4721-B079-3596F4B50230}
+	EndGlobalSection
+EndGlobal
